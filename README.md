@@ -28,7 +28,7 @@ Each folder in this repository contains:
 | Lab 1      | DC Circuits and Measurements            | Completed    |
 | Lab 2      | Circuit Theorems                        | Completed    |
 | Lab 3      | AC Circuits and Phasors                 | Completed    |
-| Lab 4      | Phasors and AC Power                    | _To be added_ |
+| Lab 4      | Phasors and AC Power                    | Completed    |
 
 More labs will be appended as they are completed.
 
